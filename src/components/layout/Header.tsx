@@ -15,6 +15,9 @@ export default function Header() {
           <a href="#members" className="transition-colors hover:text-violet-600">
             メンバー
           </a>
+          <a href="#contribute" className="transition-colors hover:text-violet-600">
+            コントリビュート
+          </a>
           <a
             href="https://x.com/ojousannn/status/2025994059123392982"
             target="_blank"
