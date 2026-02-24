@@ -6,7 +6,7 @@ export default function HeroSection() {
   return (
     <section
       id="top"
-      className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden px-4 sm:px-6"
+      className="relative flex flex-col items-center justify-center overflow-hidden px-4 py-24 sm:px-6 sm:py-32"
     >
       {/* 背景装飾 */}
       <div
